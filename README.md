@@ -1,4 +1,4 @@
-Use Costco online pharmacy?
+**Use Costco online pharmacy?**
 
 Have a scanner that turns the papers receipts into a PDF?
 
@@ -6,13 +6,13 @@ have a mac?
 
 ok with using the terminal?
 
-Don't have issues with uploading your prescription data to https://ocr.space?***
+Don't have issues with uploading your prescription data to https://ocr.space?
 
 Then this app might save you one minute.
 
 :)
 
-Sample Result
+**Sample Result**
 
 ❯ ./parse_costco_receipts.sh scan.pdf
 
@@ -38,14 +38,20 @@ Processing scanned_page-5.png...
 
   ✓ Found Patient Pays amount: $9.03
 
-=============================================
+ =============================================
+ 
 SUMMARY
-=============================================
+
+ =============================================
+ 
 Pages processed: 5
+
 Total 'Patient Pays' amount: $54.86
 
 
-*** https://ocr.space/privacypolicy
+**Privacy**
+
+https://ocr.space/privacypolicy
 
 OCR API (Hosted solution, Cloud OCR)
 
