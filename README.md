@@ -1,6 +1,6 @@
 Use Costco online pharmacy?
 
-Have a scanner that turns the papers, receipts into a PDF?
+Have a scanner that turns the papers receipts into a PDF?
 
 have a mac?
 
