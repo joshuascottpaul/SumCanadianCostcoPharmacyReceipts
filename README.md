@@ -12,6 +12,27 @@ Then this app might save you one minute.
 
 :)
 
+**How to Use:**
+
+Install dependencies:
+
+bashbrew install poppler jq
+
+Get OCR.space API key:
+
+Visit https://ocr.space/ocrapi
+
+Sign up for free (500 requests/month)
+
+Replace "apikey" in the script
+
+
+Run the script:
+
+chmod +x parse_costco_receipts.sh
+
+./parse_costco_receipts.sh your_receipts.pdf
+
 **Sample Result**
 
 ❯ ./parse_costco_receipts.sh scan.pdf
